@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apolefko
 - 👀 I’m interested in frontend, backend, and games
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on games (game boy games or maybe something for the Playdate device)
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on games (game boy games)
 
 <!---
 apolefko/apolefko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
