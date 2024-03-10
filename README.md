@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apolefko
-- 👀 I’m interested in frontend, backend, and games
+- 👀 I’m interested in AI, frontend, backend, and games
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on games (game boy games)
 
