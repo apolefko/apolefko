@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @apolefko
-- 👀 I’m interested in AI, frontend, backend, and games
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on games (game boy games)
+- 👋 Hello! 
+- 👀 I’m interested in AI
+- 🌱 Currently studying at UT Austin
+- 💞️ I’m looking to collaborate on human-centric AI research and development
+- 🌉 Inspired by building bridges and connections...Death Stranding
 
 <!---
 apolefko/apolefko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
